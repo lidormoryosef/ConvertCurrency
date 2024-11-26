@@ -1,0 +1,24 @@
+﻿.row{
+    min-height: 100vh;
+    justify-items: center;
+    align-items: center;
+}
+#form-container{
+    display: block;
+}
+#result-container{
+    display: none;
+}
+body {
+    background-color: #E6E6FA;
+}
+body table th {
+     background-color: #cc7351 !important;
+     color: white !important;
+}
+.odd-row {
+    background-color: white !important;
+}
+.even-row {
+    background-color: #f5f5dc !important;
+}
